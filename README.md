@@ -5,11 +5,6 @@
 ![Flask](https://img.shields.io/badge/Flask-1.1.2-green?style=for-the-badge&logo=flask&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Audi_Logo_2016.svg/1200px-Audi_Logo_2016.svg.png" width="100" alt="Audi Logo" style="margin: 0 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/1200px-Lamborghini_Logo.svg.png" width="90" alt="Lamborghini Logo" style="margin: 0 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mercedes-Benz_logo.svg/1024px-Mercedes-Benz_logo.svg.png" width="100" alt="Mercedes Logo" style="margin: 0 20px;">
-</div>
 
 <h3 align="center">Advanced Car Brand Recognition System</h3>
 
@@ -76,7 +71,7 @@ Get the application running on your local machine in minutes.
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/Deep-Learning-Car-Brand.git
+    git clone 
     cd Deep-Learning-Car-Brand
     ```
 
