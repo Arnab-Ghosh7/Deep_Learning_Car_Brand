@@ -6,6 +6,13 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 
+<div align="center">
+  <img src="https://www.carlogos.org/car-logos/audi-logo-2016.png" width="100" alt="Audi Logo" style="margin: 0 20px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/1200px-Lamborghini_Logo.svg.png" width="90" alt="Lamborghini Logo" style="margin: 0 20px;">
+  <img src="https://www.carlogos.org/car-logos/mercedes-benz-logo.png" width="100" alt="Mercedes Logo" style="margin: 0 20px;">
+</div>
+
+
 <h3 align="center">Advanced Car Brand Recognition System</h3>
 
 ---
