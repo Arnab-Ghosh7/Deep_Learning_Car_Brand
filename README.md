@@ -71,7 +71,7 @@ Get the application running on your local machine in minutes.
 
 1.  **Clone the Repository**
     ```bash
-    git clone 
+    git clone https://github.com/Arnab-Ghosh7/Deep_Learning_Car_Brand
     cd Deep-Learning-Car-Brand
     ```
 
