@@ -18,7 +18,16 @@
 ---
 
 ## 📌 Project Overview
+In the rapidly evolving landscape of **Intelligent Transportation Systems (ITS)** and **Automated Surveillance**, the ability to accurately identify vehicle attributes is paramount. This project presents a robust **Deep Learning Car Brand Classification System** designed to bridge the gap between raw image data and actionable insights.
 
+Utilizing the state-of-the-art **ResNet50 (Residual Network)** architecture, this application tackles the challenging task of fine-grained image classification. Unlike traditional shallow networks, ResNet50 employs "skip connections" to allow for training much deeper networks without the vanishing gradient problem, making it exceptionally powerful for extracting complex features from vehicle images.
+
+We have integrated this powerful manufacturing-grade backend with a lightweight, responsive **Flask** web application. This allows users—ranging from automotive enthusiasts to parking management systems—to simply upload an image and receive an instant, high-confidence prediction of the car manufacterer.
+
+**Key capabilities include:**
+*   **Precision Recognition**: Tuned specifically for distinguishing between the subtle design languages of luxury brands like Audi, Lamborghini, and Mercedes.
+*   **Transfer Learning**: leverages weights pre-trained on the massive ImageNet dataset, allowing our model to converge faster and achieve higher accuracy even with a limited brand-specific dataset.
+*   **Real-World Applicability**: The current pipeline can be easily extended to support more brands/models or integrated into video feeds for traffic analysis.
 
 
 ## ✨ Features
