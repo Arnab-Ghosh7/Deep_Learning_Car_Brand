@@ -40,13 +40,7 @@ We have integrated this powerful manufacturing-grade backend with a lightweight,
 
 ## 🛠️ Tech Stack & Tools
 
-| Category | Technologies |
-| :--- | :--- |
-| **Deep Learning** | Python, TensorFlow, Keras, ResNet50 |
-| **Backend** | Flask (Python Web Framework) |
-| **Image Processing** | OpenCV, Pillow (PIL), NumPy |
-| **Frontend** | HTML5, CSS3, Bootstrap 4 |
-| **Environment** | Jupyter Notebook (for training), Anaconda |
+
 
 ## 📂 Project Structure
 
