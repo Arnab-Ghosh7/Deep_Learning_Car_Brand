@@ -24,6 +24,10 @@ Utilizing the state-of-the-art **ResNet50 (Residual Network)** architecture, thi
 
 We have integrated this powerful manufacturing-grade backend with a lightweight, responsive **Flask** web application. This allows users—ranging from automotive enthusiasts to parking management systems—to simply upload an image and receive an instant, high-confidence prediction of the car manufacterer.
 
+**Key capabilities include:**
+*   **Precision Recognition**: Tuned specifically for distinguishing between the subtle design languages of luxury brands like Audi, Lamborghini, and Mercedes.
+*   **Transfer Learning**: leverages weights pre-trained on the massive ImageNet dataset, allowing our model to converge faster and achieve higher accuracy even with a limited brand-specific dataset.
+*   **Real-World Applicability**: The current pipeline can be easily extended to support more brands/models or integrated into video feeds for traffic analysis.
 
 
 ## ✨ Features
