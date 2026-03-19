@@ -18,7 +18,7 @@
 ---
 
 ## 📌 Project Overview
-In the rapidly evolving landscape of **Intelligent Transportation Systems (ITS)** and **Automated Surveillance**, the ability to accurately identify vehicle attributes is paramount. This project presents a robust **Deep Learning Car Brand Classification System** designed to bridge the gap between raw image data and actionable insights.
+
 
 Utilizing the state-of-the-art **ResNet50 (Residual Network)** architecture, this application tackles the challenging task of fine-grained image classification. Unlike traditional shallow networks, ResNet50 employs "skip connections" to allow for training much deeper networks without the vanishing gradient problem, making it exceptionally powerful for extracting complex features from vehicle images.
 
