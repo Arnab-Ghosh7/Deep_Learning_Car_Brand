@@ -31,7 +31,11 @@ We have integrated this powerful manufacturing-grade backend with a lightweight,
 
 
 ## ✨ Features
-
+*   **Deep Transfer Learning**: Implements the 50-layer Residual Network (ResNet50) for superior feature extraction.
+*   **High-Performance Accuracy**: The model boasts a training accuracy of ~98% and robust validation performance.
+*   **Interactive Web Interface**: A clean, Bootstrap-powered UI allowing drag-and-drop image uploads.
+*   **Instant Inference**: Optimized prediction pipeline providing results in milliseconds.
+*   **Scalable Architecture**: Codebase structured for easy addition of new car classes or model upgrades.
 
 
 ## 🛠️ Tech Stack & Tools
